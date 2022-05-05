@@ -5,9 +5,9 @@
 ## Requipments
 - alacritty
 - i3 (autotiling)
-- polybar (pavucontrol, pulseaudio, spotify)
+- polybar (pavucontrol, pulseaudio, spotify, playerctl)
 - neovim
-- zsh
+- zsh (powerlevel10k)
 - rofi
 - picom
 - nerd-fonts-jetbrains-mono
